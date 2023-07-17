@@ -181,14 +181,14 @@ header table {
 #photos {
     width:90%;
     columns:3;
-    column-gap:4%;
+    column-gap:3%;
     z-index:1;
     transition:0.4s ease-in-out;
 }
 #photos img {
     width:100%;
     height:auto;
-    margin:4.5% 0px;
+    margin:2.5% 0px;
     transition:0.4s ease-in-out;
 }
 #photos img:hover {
