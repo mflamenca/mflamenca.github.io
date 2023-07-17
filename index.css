@@ -72,7 +72,7 @@ body,html {
 }
 #middle {
     width:100%;
-    height:80vh;
+    height:50vh;
     background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("https://lh3.googleusercontent.com/pw/AIL4fc8Z1aGUZrBIB9hKCLBxXHG8nSds3hyyes-VxhzCXL3JTbn9fbA3LCeLDHbPL7esnWAipLkc1mKo_8-bGmNf6RZX6Z299Oy4YBiRqu9XdJM0AMX21eR1VFImHc_qTBGQtV26UrT5lZdpQcxrGXeuPm0=w2298-h1522-s-no?authuser=0") center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
